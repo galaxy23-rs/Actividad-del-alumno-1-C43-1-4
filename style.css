@@ -85,13 +85,13 @@ canvas {
 }
 
 .resetText{
-  font-size: 25px;
-  color: white;
+  font-size: 20px;
+  color: green;
   font-family: vollkorn;
   text-align: center;
-  text-shadow: -1px 1px 0 #ff1744,
+  text-shadow: -2px 2px 0 #ff1744,
                 1px 1px 0 #ff1744,
-                1px -1px 0 #ff1744,
+                2px -2px 0 #ff1744,
                 -1px -1px 0 #ff1744;
 }
 
